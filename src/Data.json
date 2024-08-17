@@ -1,0 +1,121 @@
+[
+    {
+        "_id": {
+            "$oid": "66b9e2259b5b7afcb16341dd"
+        },
+        "name": "Changing Image",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support image changes every time.newly added",
+        "price": {
+            "$numberInt": "498"
+        },
+        "unitsAvailable": {
+            "$numberInt": "88"
+        },
+        "productImage": "https://loremflickr.com/640/480/food",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66b9e3c59b5b7afcb16341e8"
+        },
+        "name": "modified name",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "price": {
+            "$numberInt": "123"
+        },
+        "unitsAvailable": {
+            "$numberInt": "86"
+        },
+        "productImage": "https://loremflickr.com/640/480/food",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66c04823ad76f31c55f47497"
+        },
+        "name": "Eyeshadow Palette with Mirror",
+        "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+        "price": {
+            "$numberDouble": "34.87"
+        },
+        "unitsAvailable": {
+            "$numberInt": "56"
+        },
+        "productImage": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66c04ba16355bf9956f7bcf8"
+        },
+        "name": "Powder Canister",
+        "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+        "price": {
+            "$numberDouble": "453.67"
+        },
+        "unitsAvailable": {
+            "$numberInt": "432"
+        },
+        "productImage": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66c04bf86355bf9956f7bcfb"
+        },
+        "name": "Red Nail Polish",
+        "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+        "price": {
+            "$numberInt": "340"
+        },
+        "unitsAvailable": {
+            "$numberInt": "325"
+        },
+        "productImage": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66c04c5b6355bf9956f7bcfe"
+        },
+        "name": "Essence Mascara Lash Princess",
+        "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+        "price": {
+            "$numberDouble": "455.99"
+        },
+        "unitsAvailable": {
+            "$numberInt": "239"
+        },
+        "productImage": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66c04cf96355bf9956f7bd02"
+        },
+        "name": "Red Lipstick",
+        "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+        "price": {
+            "$numberInt": "142"
+        },
+        "unitsAvailable": {
+            "$numberInt": "168"
+        },
+        "productImage": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png",
+        "__v": {
+            "$numberInt": "0"
+        }
+    }
+]
