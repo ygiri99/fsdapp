@@ -1,0 +1,23 @@
+@media (min-width: 576px) {
+    .text {
+        font-size: xx-large;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .gap {
+        padding: 2rem 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .text {
+        font-size: large;
+        font-weight: 400;
+        text-decoration: none;
+    }
+
+    .gap {
+        padding: .5rem;
+    }
+}

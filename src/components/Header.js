@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { Navbar, Container } from 'react-bootstrap';
+import { Navbar, Container, Col } from 'react-bootstrap';
 import { BsCart } from "react-icons/bs";
 import { FaRegCircleUser } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
@@ -20,15 +20,16 @@ export default function Header() {
                     className="d-inline-block align-top rounded-circle"
                     alt="Shopping logo"
                 />
-                <Link to={"/"} className='text-decoration-none fs-2 fw-bold'>
+                <Link to={"/"} className='text'
+                >
                     Products
                 </Link>
-                <Link to={"/productadmin"} className='text-decoration-none fs-2 fw-bold'>
-                    HandleProduct
+                <Link to={"/productadmin"} className='text'>
+                    HandleProd
                 </Link>
                 <div className='d-flex align-items-center'>
                     <FaRegCircleUser />
-                    <span className='p-3'></span>
+                    <span className='gap'></span>
                     <Link to={"/cart"}><BsCart /></Link>{state.cartQuantity}
                 </div>
             </Container>
